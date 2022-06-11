@@ -1,0 +1,199 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.databinding:viewbinding:7.2.0] C:\Users\redne\.gradle\caches\transforms-3\4e2fedc53780e97876ac1e274d412f7b\transformed\viewbinding-7.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\f0ad74ade1fb0b6f28991fe9b0668525\transformed\navigation-ui-ktx-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\60df13a8c2359c44b42a49c0a442db11\transformed\navigation-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\ba45875c9c2ec742706c39837b878d06\transformed\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\redne\.gradle\caches\transforms-3\f079d86d2e7ff7f4b28697d686aaaa34\transformed\constraint-layout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\84dad03266d14f0fe9849b75e58070ad\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\15b09bc885623f3c954ba2a58b225e48\transformed\navigation-fragment-ktx-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\b07cd86473b9f3cc13e4a1e45d4b2c4b\transformed\navigation-fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\51527c65bffbc93bdf4ab4e3acd2eb69\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\aa6a60e32c99f196c74eb86951113df3\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\f78fefb39fc125f88ab33dc974faa761\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\68f2bbed3a190d24b2d1e96b46846456\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\ce991c7c2ced9abc924eb6f427a54aae\transformed\navigation-runtime-ktx-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\252363de3b19ad3462c73c6f87d10cce\transformed\navigation-runtime-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\d1be172d36def7e58ac6a338659183c3\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\31ffbf8d4c605f9fb2586a233efd2482\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\dd16cc7cbe1eea4e7873f56c105f8730\transformed\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\1c41635e780c93df0ce7de0b3570df7a\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\925552b1d61d770936eef88d4f5c3375\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\11bd18af4aa2e37ad36403b07e7cd452\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\f3015aad7218dffaab8c285227c15828\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\8c2ddaaa90685ee86cc3a6968cb3490f\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\5c04626ae2445740381e2800ec4625c7\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\966b7d2b55902047a988cdcea59e5b9f\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\2960db095d3b16751d6ea25271f8fd30\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\62684957348a40a1110f66187c0363d6\transformed\navigation-common-ktx-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\a1dd56680f2045bf8f6339da021246a3\transformed\navigation-common-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\7b8853042e62c4737d7f49d215b8835a\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\8a567dbf7ae54e9a39021758914cf737\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\770d4a25a3ee3404462fb6f40a63549a\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\0df9a52ad8deb45d0350b6b21e7c070d\transformed\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\redne\.gradle\caches\transforms-3\e11fb279cc5ac9de9644eec2743605c1\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\f0e068acbefc3a383c2243586e149cd9\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\7e44a5c6f4621a707455f868a26e326e\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\32a29078544d46d7c24e9372368c13b8\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\redne\.gradle\caches\transforms-3\88cd1fa4d745e076fe0d8f1fd6a14361\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\801c243b7f475644e40644286d626fc6\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\redne\.gradle\caches\transforms-3\5226e1c847531bfd040a46d49c760d5b\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\redne\.gradle\caches\transforms-3\e0a13e124161af87912fc625b3ba950c\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\redne\.gradle\caches\transforms-3\b7de1557681be16c556ad2ced1879bd2\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:4:5-48
+		INJECTED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:6:5-21:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\ba45875c9c2ec742706c39837b878d06\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\ba45875c9c2ec742706c39837b878d06\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\redne\.gradle\caches\transforms-3\f079d86d2e7ff7f4b28697d686aaaa34\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\redne\.gradle\caches\transforms-3\f079d86d2e7ff7f4b28697d686aaaa34\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\7b8853042e62c4737d7f49d215b8835a\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\7b8853042e62c4737d7f49d215b8835a\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\8a567dbf7ae54e9a39021758914cf737\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\8a567dbf7ae54e9a39021758914cf737\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\7b8853042e62c4737d7f49d215b8835a\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:11:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:9:9-54
+	android:roundIcon
+		ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:12:9-54
+	tools:targetApi
+		ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:15:9-29
+	android:icon
+		ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:14:9-58
+	android:dataExtractionRules
+		ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:8:9-65
+activity#com.example.com_437airbornebutton.AirborneButton437
+ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:16:9-20:77
+	android:label
+		ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:19:13-70
+	android:exported
+		ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:18:13-37
+	android:theme
+		ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:20:13-74
+	android:name
+		ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml:17:13-46
+uses-sdk
+INJECTED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:viewbinding:7.2.0] C:\Users\redne\.gradle\caches\transforms-3\4e2fedc53780e97876ac1e274d412f7b\transformed\viewbinding-7.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.databinding:viewbinding:7.2.0] C:\Users\redne\.gradle\caches\transforms-3\4e2fedc53780e97876ac1e274d412f7b\transformed\viewbinding-7.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\f0ad74ade1fb0b6f28991fe9b0668525\transformed\navigation-ui-ktx-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\f0ad74ade1fb0b6f28991fe9b0668525\transformed\navigation-ui-ktx-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\60df13a8c2359c44b42a49c0a442db11\transformed\navigation-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\60df13a8c2359c44b42a49c0a442db11\transformed\navigation-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\ba45875c9c2ec742706c39837b878d06\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\ba45875c9c2ec742706c39837b878d06\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\redne\.gradle\caches\transforms-3\f079d86d2e7ff7f4b28697d686aaaa34\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\redne\.gradle\caches\transforms-3\f079d86d2e7ff7f4b28697d686aaaa34\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\84dad03266d14f0fe9849b75e58070ad\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\84dad03266d14f0fe9849b75e58070ad\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\15b09bc885623f3c954ba2a58b225e48\transformed\navigation-fragment-ktx-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\15b09bc885623f3c954ba2a58b225e48\transformed\navigation-fragment-ktx-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\b07cd86473b9f3cc13e4a1e45d4b2c4b\transformed\navigation-fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\b07cd86473b9f3cc13e4a1e45d4b2c4b\transformed\navigation-fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\51527c65bffbc93bdf4ab4e3acd2eb69\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\51527c65bffbc93bdf4ab4e3acd2eb69\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\aa6a60e32c99f196c74eb86951113df3\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\aa6a60e32c99f196c74eb86951113df3\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\f78fefb39fc125f88ab33dc974faa761\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\f78fefb39fc125f88ab33dc974faa761\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\68f2bbed3a190d24b2d1e96b46846456\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\68f2bbed3a190d24b2d1e96b46846456\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\ce991c7c2ced9abc924eb6f427a54aae\transformed\navigation-runtime-ktx-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\ce991c7c2ced9abc924eb6f427a54aae\transformed\navigation-runtime-ktx-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\252363de3b19ad3462c73c6f87d10cce\transformed\navigation-runtime-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\252363de3b19ad3462c73c6f87d10cce\transformed\navigation-runtime-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\d1be172d36def7e58ac6a338659183c3\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\d1be172d36def7e58ac6a338659183c3\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\31ffbf8d4c605f9fb2586a233efd2482\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\31ffbf8d4c605f9fb2586a233efd2482\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\dd16cc7cbe1eea4e7873f56c105f8730\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\dd16cc7cbe1eea4e7873f56c105f8730\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\1c41635e780c93df0ce7de0b3570df7a\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\1c41635e780c93df0ce7de0b3570df7a\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\925552b1d61d770936eef88d4f5c3375\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\925552b1d61d770936eef88d4f5c3375\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\11bd18af4aa2e37ad36403b07e7cd452\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\11bd18af4aa2e37ad36403b07e7cd452\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\f3015aad7218dffaab8c285227c15828\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\f3015aad7218dffaab8c285227c15828\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\8c2ddaaa90685ee86cc3a6968cb3490f\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\8c2ddaaa90685ee86cc3a6968cb3490f\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\5c04626ae2445740381e2800ec4625c7\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\5c04626ae2445740381e2800ec4625c7\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\966b7d2b55902047a988cdcea59e5b9f\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\966b7d2b55902047a988cdcea59e5b9f\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\2960db095d3b16751d6ea25271f8fd30\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\2960db095d3b16751d6ea25271f8fd30\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\62684957348a40a1110f66187c0363d6\transformed\navigation-common-ktx-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\62684957348a40a1110f66187c0363d6\transformed\navigation-common-ktx-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\a1dd56680f2045bf8f6339da021246a3\transformed\navigation-common-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\redne\.gradle\caches\transforms-3\a1dd56680f2045bf8f6339da021246a3\transformed\navigation-common-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\7b8853042e62c4737d7f49d215b8835a\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\7b8853042e62c4737d7f49d215b8835a\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\8a567dbf7ae54e9a39021758914cf737\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\8a567dbf7ae54e9a39021758914cf737\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\770d4a25a3ee3404462fb6f40a63549a\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\770d4a25a3ee3404462fb6f40a63549a\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\0df9a52ad8deb45d0350b6b21e7c070d\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\0df9a52ad8deb45d0350b6b21e7c070d\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\redne\.gradle\caches\transforms-3\e11fb279cc5ac9de9644eec2743605c1\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\redne\.gradle\caches\transforms-3\e11fb279cc5ac9de9644eec2743605c1\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\f0e068acbefc3a383c2243586e149cd9\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\f0e068acbefc3a383c2243586e149cd9\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\7e44a5c6f4621a707455f868a26e326e\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\7e44a5c6f4621a707455f868a26e326e\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\32a29078544d46d7c24e9372368c13b8\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\32a29078544d46d7c24e9372368c13b8\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\redne\.gradle\caches\transforms-3\88cd1fa4d745e076fe0d8f1fd6a14361\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\redne\.gradle\caches\transforms-3\88cd1fa4d745e076fe0d8f1fd6a14361\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\801c243b7f475644e40644286d626fc6\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\redne\.gradle\caches\transforms-3\801c243b7f475644e40644286d626fc6\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\redne\.gradle\caches\transforms-3\5226e1c847531bfd040a46d49c760d5b\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\redne\.gradle\caches\transforms-3\5226e1c847531bfd040a46d49c760d5b\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\redne\.gradle\caches\transforms-3\e0a13e124161af87912fc625b3ba950c\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\redne\.gradle\caches\transforms-3\e0a13e124161af87912fc625b3ba950c\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\redne\.gradle\caches\transforms-3\b7de1557681be16c556ad2ced1879bd2\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\redne\.gradle\caches\transforms-3\b7de1557681be16c556ad2ced1879bd2\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\redne\AndroidStudioProjects\COM437AIRBORNEBUTTON\app\src\main\AndroidManifest.xml
